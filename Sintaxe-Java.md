@@ -24,3 +24,13 @@ O comppilador Java Ignora os comentários, portanto eles não possuem nenhuma a�
 Quando o comentário for muito grande, você pode dividi-lo em várias linhas. Esse tipo de comentário começa com /* e termina */   
 
 ### Linhas em Branco
+
+Para o Java linhas em branco são ignoradas. 
+
+### Variáveis
+
+Variáveis em java
+```java
+
+```
+
